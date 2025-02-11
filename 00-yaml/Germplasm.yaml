@@ -1,0 +1,11 @@
+#- Species: 
+#    bread wheat: vocabulary:Species
+#  Germplasm: 
+#    - DEMO_VAR_1: vocabulary:Variety
+#    - DEMO_VAR_2: vocabulary:Variety
+#    - DEMO_VAR_3: vocabulary:Variety
+
+- Species: 
+    Solanum tuberosum: vocabulary:Species
+  Germplasm: 
+    - Timo: vocabulary:Variety

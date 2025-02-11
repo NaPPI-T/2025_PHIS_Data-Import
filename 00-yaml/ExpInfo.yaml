@@ -1,12 +1,12 @@
-Objective: Study the water stress response in the 'Timo' potato cultivar
-Description: This experiment investigates the response of Timo cultivar to varying water levels to assess the plant’s physiological and adaptive responses to water stress. Plants were grown under two conditions: a control group maintained at 70% water holding capacity (WHC) and a stress group with WHC reduced to 40%.
-Start Date: 10/06/2022
-End Date: 19/07/2022
-organisations: National Plant Phenotyping Infrastructure
-facilities: Modular
-projects:
+Objective: Study the water stress response in 'Timo' potato cultivar
+Description: 'This experiment conducted in 2022 investigates the response of Timo cultivar to varying water levels to assess the plants physiological and adaptive responses to water stress. Plants were grown under two conditions: a control group maintained at 90% water holding capacity (WHC) and a stress group with WHC reduced to 70%.'
+Start Date: 2022-06-10
+End Date: 2022-07-19
+organisations: ['National Plant Phenotyping Infrastructure']
+facilities: ['Modular']
+projects: ['DrTimo']
 scientific_supervisors:
 technical_supervisors:
-groups:
+groups: ['NaPPI Team']
 Is_Public: FALSE
 RDF Type: ['Plant']
