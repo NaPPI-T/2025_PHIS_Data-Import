@@ -6,6 +6,6 @@
 #    - DEMO_VAR_3: vocabulary:Variety
 
 - Species: 
-    Solanum tuberosum: vocabulary:Species
+    Potato: vocabulary:Species
   Germplasm: 
     - Timo: vocabulary:Variety
